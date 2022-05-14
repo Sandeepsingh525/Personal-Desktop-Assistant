@@ -165,9 +165,9 @@ class MainThread(QThread):
                     speak("Unable to send the email")
             elif 'message' in self.query:
                 user_name = {
-                    'Kesha': '+918896816000',
-                    'Jatin': '+918685829310',
-                    'Mayank': '+916284389009'
+                    'Kesha': '+910000000000',
+                    'Jatin': '+910000000000',
+                    'Mayank': '+910000000000'
                 }
                 try:
                     speak("To whom you want to send whatsapp message?")
